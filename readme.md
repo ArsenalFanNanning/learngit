@@ -4,5 +4,6 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Create a new branch dev.
 Add a line in master branch.
+Add a new feature.
 
 
