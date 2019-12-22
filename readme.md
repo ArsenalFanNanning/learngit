@@ -7,6 +7,10 @@ Add a line in master branch.
 Add a new feature.
 Add merge in branch dev with no-ff.
 Add merge in branch dev whit fast forward.
+<<<<<<< HEAD
 Hello, branch dev.
+=======
+Fix bug issue-110.
+>>>>>>> 49f6c11... fix bug 110
 
 
