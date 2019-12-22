@@ -5,5 +5,5 @@ Git tracks changes of files.
 Create a new branch dev.
 Add a line in master branch.
 Add a new feature.
-
+Add merge in branch dev.
 
