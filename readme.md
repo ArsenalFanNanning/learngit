@@ -10,5 +10,7 @@ Add merge in branch dev whit fast forward.
 Fix bug issue-110.
 Hello, branch dev.
 Nice bro has change one.
+Nice bro has change two.
+
 
 
